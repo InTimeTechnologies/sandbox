@@ -1,0 +1,5 @@
+Implement the GLFW backend.
+Make sure backends stay in the backend directory. Keep your project clean.
+Try implementing a second backend, like Win32 and/or Qt.
+Try implementing an issolated backend specific to mouse, keyboard, joystick, window, sound, etc. GLFW covers too much.
+Create a test case.
